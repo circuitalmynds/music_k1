@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1018.8414999999994,
+    "videos": [
         "kaos etiliko- de ke vas-tUAED8MULiU.mp4",
         "kaotiko vueltas y vueltas-dq2Zvcg7FMk.mp4",
         "Kaos Etiliko - Ansiedad-NdDmR7PNRHs.mp4",
@@ -114,7 +115,5 @@
         "Kortatu - Zu atrapatu arte-DWSbBDterYs.mp4",
         "Creedence Clearwater Revival - Born On The Bayou-wIjUY3pjN8E.mp4",
         "KAOS ETILIKO. La gran chingada.-RNt3dqdAshs.mp4"
-    ],
-    "id": "k1",
-    "total_size": 971.6430341796876
+    ]
 }
